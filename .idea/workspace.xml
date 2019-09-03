@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6646dac0-2e70-417a-b978-9afd7feca3bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/justin-Portfolio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/justin-Portfolio/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="6646dac0-2e70-417a-b978-9afd7feca3bf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -28,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/justin-Portfolio/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="93" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
+              <first_editor>
+                <caret column="3" selection-start-column="3" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -111,13 +109,6 @@
               <item name="justin-Portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JustinPortfolio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="justinportfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="justin-Portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -169,18 +160,18 @@
       <workItem from="1567099968338" duration="2125000" />
       <workItem from="1567102176196" duration="84000" />
       <workItem from="1567493019784" duration="384000" />
-      <workItem from="1567493738462" duration="93000" />
+      <workItem from="1567493738462" duration="205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8134000" />
+    <option name="totallyTimeSpent" value="8246000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -192,7 +183,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -268,8 +259,8 @@
     <entry file="file://$PROJECT_DIR$/justin-Portfolio/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="93" selection-start-line="8" selection-start-column="93" selection-end-line="8" selection-end-column="93" />
+          <first_editor>
+            <caret column="3" selection-start-column="3" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>

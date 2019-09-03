@@ -1,4 +1,4 @@
-##Justin Portfolio
+## Justin Portfolio
 This is my Portfolio, I used a basic template that I found online.
 ## Template
 https://github.com/jushaa/React-Portfolio
