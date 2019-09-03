@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6646dac0-2e70-417a-b978-9afd7feca3bf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/justin-Portfolio/src/components/Footer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Feel free to contact me for any work or suggestions below</find>
+      <find>span class</find>
+      <find>../images/</find>
+      <find>profile-pic</find>
+      <find>i am a</find>
+      <find>item-img</find>
+      <find>.portfolio-item .item-wrap img</find>
+      <find>content not found</find>
+      <find>imgurl</find>
+      <find>bar-ex</find>
+      <find>style</find>
+      <find>bar-expand</find>
+      <find>skills</find>
+      <find>aboutme</find>
+      <find>check out some</find>
+      <find>favicon</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/React-Portfolio-master/src/App.js" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/src/components/ContactUs.js" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/src/components/Header.js" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/src/App.css" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/public/css/layout.css" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/src/components/Resume.js" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/src/components/About.js" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/src/resumeData.js" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/src/components/Portfolio.js" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/public/index.html" />
+        <option value="$PROJECT_DIR$/React-Portfolio-master/public/manifest.json" />
+        <option value="$PROJECT_DIR$/justin-Portfolio/src/resumeData.js" />
+        <option value="$PROJECT_DIR$/justin-Portfolio/src/components/Header.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JustinPortfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justinportfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JustinPortfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justinportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="justin-Portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JustinPortfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justinportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="justin-Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JustinPortfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="justinportfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="justin-Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JustinF\Downloads\React-Portfolio-master (1)\React-Portfolio-master\public\images" />
+      <recent name="C:\Users\JustinF\Downloads\React-Portfolio-master (1)\React-Portfolio-master\public\images\portfolio" />
+      <recent name="C:\Users\JustinF\Downloads\React-Portfolio-master (1)\React-Portfolio-master\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JustinF\Downloads\React-Portfolio-master (1)\React-Portfolio-master\public\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6646dac0-2e70-417a-b978-9afd7feca3bf" name="Default Changelist" comment="" />
+      <created>1567085349227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567085349227</updated>
+      <workItem from="1567085350457" duration="1983000" />
+      <workItem from="1567087463595" duration="1649000" />
+      <workItem from="1567097773189" duration="1816000" />
+      <workItem from="1567099968338" duration="2125000" />
+      <workItem from="1567102176196" duration="84000" />
+      <workItem from="1567493019784" duration="384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8041000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/serviceWorker.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/components/ContactUs.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/components/Footer.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/profilepic.jpg" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/testimonials-bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/components/Header.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/portfolio/modals/m-coffee.jpg" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/motor.jpg" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/js/magnific-popup.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/package.json" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/App.css" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/components/Resume.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/components/About.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/avatarround.png" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/background.jpg" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/background.png" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/loader.gif" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/overlay-zoom.png" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/overlay-bg.png" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/images/sample-image.jpg" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/components/Portfolio.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/src/resumeData.js" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/css/layout.css" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/React-Portfolio-master/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/justin-Portfolio/src/components/About.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justin-Portfolio/src/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justin-Portfolio/src/components/Portfolio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justin-Portfolio/src/resumeData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2214">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/justin-Portfolio/src/components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
