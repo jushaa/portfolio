@@ -5,6 +5,10 @@ export default class Footer extends Component {
     return (
       <footer>
       <div className="row">
+        <h4 style={{color:'white'}}>Linked in :
+          {resumeData.linkedinId}
+        </h4>
+        <h4 style={{color:'white'}}>Email: justinferron@me.com</h4>
         <div className="twelve columns">
           <ul className="social-links">
             {

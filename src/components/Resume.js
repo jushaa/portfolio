@@ -65,37 +65,43 @@ export default  class Resume extends Component {
             <div className="three columns header-col">
                <h1><span>Skills</span></h1>
             </div>
+             <div className="nine columns main-col">
+                 <h3 style={{color: 'grey'}}>Coding skills </h3>
+                 {
+                     resumeData.codingSkills && resumeData.codingSkills.map((item) => {
+                         return(
+                             <div className="row item">
 
-            <div className="nine columns main-col">
+                                 <div className="twelve columns">
+                                     <h3>{item.SkillName}</h3>
+                                 </div>
 
-               <p>
-               {resumeData.skillsDescription}
-               </p>
+                             </div>
 
-   				<div className="bars">
+                         )
+                     })
+                 }
+             </div>
 
-   				   <ul className="skills">
-                {
-                  resumeData.skills && resumeData.skills.map((item) => {
-                    return(
+             <div className="nine columns main-col">
+                 <h3 style={{color: 'grey', paddingTop: '20px'}}>Creative skills </h3>
+                 {
+                     resumeData.creativeSkills && resumeData.creativeSkills.map((item) => {
+                         return(
+                             <div className="row item">
 
-                      <li>
-                      <span className={`bar-expand ${item.skillnameCSS.toLowerCase()}`} ><h4 style={{color: "#ccc", paddingTop: "5px", textAlign: "center", fontSize: "15px", fontStyle: "normal" }}>{item.skillPercentage}</h4>
-                      </span><em>{item.normalSkillName}</em><br></br>
+                                 <div className="twelve columns">
+                                     <h3>{item.SkillName}</h3>
+                                 </div>
 
-                      </li>
-                    )
-                  })
-                }
+                             </div>
 
-   					</ul>
-
-   				</div>
-
-   			</div>
+                         )
+                     })
+                 }
+             </div>
 
          </div>
-
       </section>
     );
   }

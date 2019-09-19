@@ -423,11 +423,15 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 48px;
    color: #95A3A3;
 }
-
+@media only screen and (max-width: 900px){
+    .overlay{
+        display: none;
+    }
+}
 /* Portfolio Content */
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
-   background: #fff;
+   /*background: #fff;*/
    overflow: hidden;
    position: relative;
 
@@ -1005,35 +1009,3 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
-
-.html5 {
-    width: 75%;
-    -moz-animation: javascript 2s ease;
-    -webkit-animation: javascript 2s ease;
-}
-.angular {
-    width: 75%;
-    -moz-animation: javascript 2s ease;
-    -webkit-animation: javascript 2s ease;
-}
-.reactjs {
-    width: 25%;
-    -moz-animation: javascript 2s ease;
-    -webkit-animation: javascript 2s ease;
-}
-.java {
-    width: 50%;
-    -moz-animation: javascript 2s ease;
-    -webkit-animation: javascript 2s ease;
-}
-
-.python {
-    width: 50%;
-    -moz-animation: javascript 2s ease;
-    -webkit-animation: javascript 2s ease;
-}
-.postgresql {
-    width: 75%;
-    -moz-animation: javascript 2s ease;
-    -webkit-animation: javascript 2s ease;
-}
