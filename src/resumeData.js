@@ -14,11 +14,7 @@ let resumeData = {
             "className": "fa fa-github"
         },
     ],
-    "aboutme": "I am currently a final year student at The Hogeschool van Amsterdam. My interest was always in computers, from a young age I would play games on our\n" +
-        "                                computer. It started with gaming and after that I got interested in doing other stuff like\n" +
-        "                                making music\n" +
-        "                                in FL Studio, creating videos and photoshops in all kinds of Adobe programs. So doing\n" +
-        "                                creative stuff and then I started to code. ",
+    "aboutme": "Hi and welcome to my Portfolio website. My name is Justin Ferron im a Software Engineering student that is currently in his last year. Ever since I was a kid I was fascinated about computers, it started with gaming and just browsing the internet and evolved into making my own videos, websites, applications and anything creative like making music/drawings and using Adobe programs like Photoshop, After Effects and Premier Pro. Im currently living in Amsterdam with my cat Momo and roommates and work for AH online Labs. If you want more information about me feel free to contact me.",
     "address": "Amsterdam",
     "emailaddress": "justinferron@me.com",
     "education": [
