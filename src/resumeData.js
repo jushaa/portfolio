@@ -143,7 +143,7 @@ let resumeData = {
                 "                        a\n" +
                 "                        notification. For more information check out my GitHub Page",
             "imgurl": "/images/g2achecker.png",
-            "linkToUrl": ""
+            "linkToUrl": "https://github.com/jushaa/g2achecker"
         },
         {
             "name": "Motorcycle trailer(Demo)",
