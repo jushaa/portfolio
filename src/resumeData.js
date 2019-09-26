@@ -14,7 +14,7 @@ let resumeData = {
             "className": "fa fa-github"
         },
     ],
-    "aboutme": "Hi and welcome to my Portfolio website. My name is Justin Ferron im a Software Engineering student that is currently in his last year. Ever since I was a kid I was fascinated about computers, it started with gaming and just browsing the internet and evolved into making my own videos, websites, applications and anything creative like making music/drawings and using Adobe programs like Photoshop, After Effects and Premier Pro. Im currently living in Amsterdam with my cat Momo and roommates and work for AH online Labs. If you want more information about me feel free to contact me.",
+    "aboutme": "Hi and welcome to my Portfolio website. My name is Justin Ferron I am a student Software Engineering, currently in his last year. Ever since I was a kid I was fascinated with computers, it started with gaming and just browsing the internet and evolved into making my own videos, websites, applications and anything creative like making music/drawings and using Adobe programs like Photoshop, After Effects and Premier Pro. I am currently living in Amsterdam with my cat Momo and roommates and work for Albert Heijn Online Labs. If you want more information about me feel free to contact me.",
     "address": "Amsterdam",
     "emailaddress": "justinferron@me.com",
     "education": [
