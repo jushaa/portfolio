@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: justin-portfolio-deployment
-  namespace: tijmen
+  namespace: justin
 spec:
   selector:
     matchLabels:
