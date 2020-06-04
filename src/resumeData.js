@@ -14,7 +14,7 @@ let resumeData = {
             "className": "fa fa-github"
         },
     ],
-    "aboutme": "Hi and welcome to my Portfolio website. My name is Justin Ferron I am a student Software Engineering, currently in his last year. Ever since I was a kid I was fascinated with computers, it started with gaming and just browsing the internet and evolved into making my own videos, websites, applications and anything creative like making music/drawings and using Adobe programs like Photoshop, After Effects and Premier Pro. I am currently living in Amsterdam with my cat Momo and roommates and work for Albert Heijn Online Labs. If you want more information about me feel free to contact me.",
+    "aboutme": "Hi and welcome to my Portfolio website. My name is Justin Ferron I am a student Software Engineering, currently in his last year. Ever since I was a kid I was fascinated with computers, it started with gaming and just browsing the internet and evolved into making my own videos, websites, applications and anything creative like making music/drawings and using Adobe programs like Photoshop, After Effects and Premier Pro. I am currently living in Amsterdam with my cat Momo and roommates and work for Albert Heijn Mobile Development. If you want more information about me feel free to contact me.",
     "address": "Amsterdam",
     "emailaddress": "justinferron@me.com",
     "education": [
@@ -22,7 +22,7 @@ let resumeData = {
             "UniversityName": "The Hogeschool van Amsterdam",
             "specialization": "Software Engineering",
             "MonthOfPassing": "Sep 2016",
-            "YearOfPassing": "- Aug 2020",
+            "YearOfPassing": "- July 2020",
         },
         {
             "UniversityName": "Luzac Amsterdam",
@@ -46,9 +46,15 @@ let resumeData = {
     "work": [
         {
             "CompanyName": "Ahold Delhaize",
+            "specialization": "Mobile Developement IOS intern",
+            "MonthOfLeaving": "Feb 2020",
+            "YearOfLeaving": "- July 2020",
+        },
+        {
+            "CompanyName": "Ahold Delhaize",
             "specialization": "Software innovation engineer",
             "MonthOfLeaving": "Aug 2018",
-            "YearOfLeaving": "- now",
+            "YearOfLeaving": "- Feb 2020",
         },
         {
             "CompanyName": "Ahold Delhaize",
@@ -90,6 +96,10 @@ let resumeData = {
     "skillsDescription": "My skills",
     "codingSkills": [
         {
+            "SkillName": "Swift",
+
+        },
+        {
             "SkillName": "HTML/CSS",
 
         },
@@ -119,6 +129,14 @@ let resumeData = {
         },
     ],
     "creativeSkills": [
+        {
+            "SkillName": "Procreate",
+
+        },
+        {
+            "SkillName": "Figma",
+
+        },
         {
             "SkillName": "Photoshop",
 
