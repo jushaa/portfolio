@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: justin-portfolio-deployment
+  namespace: tijmen
+spec:
+  selector:
+    matchLabels:
+      app: justin-portfolio
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: justin-portfolio
+    spec:
+      containers:
+      - name: justin-portfolio
+        image: gcr.io/PROJECT_ID/IMAGE:TAG
+        ports:
+        - containerPort: 80
+        resources:
+          requests:
+            cpu: 100m
+          limits:
+            cpu: 100m
