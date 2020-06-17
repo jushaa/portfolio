@@ -146,10 +146,6 @@ let resumeData = {
 
         },
         {
-            "SkillName": "Procreate",
-
-        },
-        {
             "SkillName": "FL Studio",
 
         }
